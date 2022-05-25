@@ -12,7 +12,7 @@ PasteDeploy==1.5.2
 plaster==1.0
 plaster-pastedeploy==0.5
 pydot==1.2.4
-PyJWT==1.6.1
+PyJWT==2.4.0
 pyparsing==2.2.0
 pyramid==1.9.1
 pyramid-mailer==0.15.1
